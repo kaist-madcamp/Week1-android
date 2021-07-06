@@ -21,7 +21,7 @@
    - Intent를 사용해서 데이터를 전달한 뒤 local 연락처에 전달받은 이름과 전화번호를 저장
    - 다시 연락처 화면으로 돌아가면 저장된 연락처가 포함되어 있음
 
-- ### 전화하기 
+- ### 전화하기
 
   <img src="https://user-images.githubusercontent.com/63537847/124422815-e9157180-dd9e-11eb-9269-173ca6f23cb2.png" width="200" height="400"> <img src="https://user-images.githubusercontent.com/63537847/124422851-f6caf700-dd9e-11eb-9bfc-c1af7e72a00b.png" width="200" height="400">
   - Recycler View로 되어있는 layout을 클릭하면 전화가 걸리는 방식으로 프로그램 구성함
@@ -44,6 +44,7 @@
   - 사진 파일을 읽어오기 위해 사용자에게 READ_EXTERNAL_STORAGE 권한을 요청함
   - local storage에 존재하는 모든 이미지 파일의 uri주소를 반환하는 getAllShownImagesPath 함수를 구현함 
   - uri주소로 접근한 이미지들을 GridView에 추가하여 화면을 구성함
+
 - ### 상세 사진 페이지
   <img src = "https://user-images.githubusercontent.com/68638211/124426143-963eb880-dda4-11eb-95ac-83c1ff9b278f.jpg" width="200" height="400">
   
@@ -115,4 +116,7 @@
 
   - 특정 반경에 위치한 마커들의 무게중심에 하나의 Cluster(군집)으로 표시됨.
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
