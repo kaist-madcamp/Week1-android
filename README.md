@@ -115,8 +115,3 @@
   <img src = "https://user-images.githubusercontent.com/58783348/124560224-880d9c80-de77-11eb-86be-f6759eff74cb.jpeg" width="200" height="400">
 
   - 특정 반경에 위치한 마커들의 무게중심에 하나의 Cluster(군집)으로 표시됨.
-
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
